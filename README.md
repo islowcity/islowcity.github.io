@@ -1,13 +1,8 @@
- <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<%@taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
-<%@taglib prefix="tags" uri="http://www.springframework.org/tags"%>
-
-<!DOCTYPE html>
+ 
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>사내교육시스템 - 아아디찾기</title>
+<title>用户登录</title>
 <script src= "//code.jquery.com/jquery-1.11.3.min.js" ></script>
 <script src= "//code.jquery.com/jquery-migrate-1.2.1.min.js" ></script>
 <script type="text/javascript" src="/IES/js/common.js"></script>
